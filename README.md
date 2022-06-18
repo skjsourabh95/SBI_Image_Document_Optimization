@@ -43,17 +43,17 @@ To optimise document / image by:
 ![alt text](./images/sample1.png)
 
 ### Sample - 2 
-![alt text](./Images/sample2.png)
+![alt text](./images/sample2.png)
 
 ### Sample - 3
 #### Key Points
-![alt text](./Images/sample3.png)
+![alt text](./images/sample3.png)
 #### Output
-![alt text](./Images/sample3a.png)
+![alt text](./images/sample3a.png)
 
 ## Pdfs
 ### Sample - 1
 ![alt text](./images/sample4.png)
 
 ### Sample - 2 
-![alt text](./Images/sample5.png)
+![alt text](./images/sample5.png)
